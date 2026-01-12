@@ -11,6 +11,7 @@ st.set_page_config(
 st.title(" Switch Staff Challenge 2026")
 st.markdown("### Dashboard Access Portal")
 st.write("Please select a performance level below to view the detailed analytics.")
+layout="centered"
 
 st.markdown("---")
 
