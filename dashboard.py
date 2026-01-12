@@ -33,7 +33,7 @@ with col2:
 with col3:
     st.header("🥉")
     st.subheader("Master")
-    st.write("Specific target analysis.")
+    st.write("Specific target analysis for each candidate.")
     st.link_button("Go to Level 3", "https://level-3-ssc-2026-2texh4j97wnqc4awh9po7k.streamlit.app/", use_container_width=True)
 
 st.markdown("---")
