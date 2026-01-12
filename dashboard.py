@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # 2. Main Header and Styling
-st.title(" Switch Staff Challenge 2026", layout="centered")
+st.title(" Switch Staff Challenge 2026")
 st.markdown("### Dashboard Access Portal")
 st.write("Please select a performance level below to view the detailed analytics.")
 
