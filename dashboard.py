@@ -8,8 +8,7 @@ st.set_page_config(
 )
 
 # 2. Main Header and Styling
-st.title(" Switch Staff Challenge 2026",
-        layout="centered")
+st.title(" Switch Staff Challenge 2026")
 st.markdown("### Dashboard Access Portal")
 st.write("Please select a performance level below to view the detailed analytics.")
 
@@ -38,5 +37,4 @@ with col3:
     st.link_button("Go to Level 3", "https://level-3-ssc-2026-2texh4j97wnqc4awh9po7k.streamlit.app/", use_container_width=True)
 
 st.markdown("---")
-st.caption("© 2026 Switch Staff Challenge | Insight Team",
-layout="centered")
+st.caption("© 2026 Switch Staff Challenge | Insight Team")
