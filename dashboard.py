@@ -6,10 +6,6 @@ st.set_page_config(
     page_icon="",
     layout="centered"
 )
-# -----------------------------------------------------------------------------
-# BANNER SECTION
-# -----------------------------------------------------------------------------
-    st.image("Main Banner.png")
 
 # 2. Main Header and Styling
 st.title(" Switch Staff Challenge 2026")
