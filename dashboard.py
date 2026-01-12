@@ -9,7 +9,6 @@ st.set_page_config(
 # -----------------------------------------------------------------------------
 # BANNER SECTION
 # -----------------------------------------------------------------------------
-# This looks for a file named "banner.png" or "banner.jpg"
     st.image("Main Banner.png")
 
 # 2. Main Header and Styling
